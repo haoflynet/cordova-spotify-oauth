@@ -88,6 +88,3 @@ src/android/spotify-sdk/
 
 # Android
 .gradle/
-
-# Webpack
-www/build/
