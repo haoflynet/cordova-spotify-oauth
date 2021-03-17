@@ -41,7 +41,7 @@ cordova.plugins.spotifyAuth.forget();
 ## Installation
 
 ```bash
-cordova plugin add cordova-spotify-oauth
+cordova plugin add https://github.com/haoflynet/cordova-spotify-oauth.git#develop
 ```
 
 ## Usage
